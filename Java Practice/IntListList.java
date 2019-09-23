@@ -1,7 +1,7 @@
 package arrays;
 
 /** A list of IntLists.
- *  @author P. N. Hilfinger
+ *  author P. N. Hilfinger
  */
 public class IntListList {
     /** A List with head HEAD0 and tail TAIL0. */

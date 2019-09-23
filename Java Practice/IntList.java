@@ -1,7 +1,7 @@
 import java.util.Formatter;
 
 /** Scheme-like pairs that can be used to form a list of integers.
- *  @author P. N. Hilfinger, Josh Hug, Melanie Cebula.
+ *  @author P. N. Hilfinger, Josh Hug, Melanie Cebula,
  */
 public class IntList {
 
